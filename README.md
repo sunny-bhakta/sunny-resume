@@ -6,7 +6,7 @@
 
 ## Skills
 
-- **Programming Languages:** Node.js, React.js, MongoDB, NestJS, GraphQL, Python, TypeScript
+- **Programming Languages:** Node.js, React.js, MongoDB, NestJS, GraphQL, Python, TypeScript, Redis
 - **Tools:** JIRA, Git
 
 ---
@@ -159,7 +159,9 @@ Developed a scalable webcasting and virtual events platform supporting annual ge
 **Responsibilities:**
 - Engineered a robust video streaming solution for live and on-demand events.
 - Enabled multi-quality video playback, live chat, and interactive polling features.
-- Automated communication workflows using cron jobs for timely notifications.
+- Developed presentation slide upload and real-time slide synchronization features for interactive presentations.
+- Ensured platform scalability and reliability to support high-traffic live events.
+- Automated notification workflows using scheduled cron jobs for timely attendee communications.
 - Implemented video transcoding for adaptive streaming across devices.
 - Integrated Sun CDN, CloudFront, and S3 for efficient media storage and delivery.
 - Collaborated in agile teams, driving technical discussions and feature enhancements.
